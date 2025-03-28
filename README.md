@@ -114,8 +114,8 @@ We welcome contributions! Feel free to fork the repo, submit pull requests, or o
 ## 📩 Contact Me
 
 If you have any questions, feedback, or want to collaborate, feel free to reach out:
-- Email: krishnamurthyshankar9@gmail.com
-- GitHub: github.com/TechNerd2009
+- [Email](krishnamurthyshankar9@gmail.com)
+- [GitHub](github.com/TechNerd2009)
 
 ---
 
