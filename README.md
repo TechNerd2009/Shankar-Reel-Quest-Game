@@ -32,7 +32,7 @@ Welcome to **Reel Quest**, a fun and immersive sea-based fishing adventure built
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/TechNerd2009/VibeCoded-Reel-Quest-Game.git
+git clone https://github.com/TechNerd2009/Shankar-Reel-Quest-Game.git
 cd reel-quest1
 ```
 
