@@ -113,7 +113,7 @@ We welcome contributions! Feel free to fork the repo, submit pull requests, or o
 
 ## 📩 Contact Me
 
-If you have any questions, feedback, or want to collaborate, feel free to reach out:
+If you have any questions, or feedback, or want to collaborate, feel free to reach out:
 - [Email](krishnamurthyshankar9@gmail.com)
 - [GitHub](github.com/TechNerd2009)
 
@@ -125,7 +125,7 @@ If you have any questions, feedback, or want to collaborate, feel free to reach 
 
 ## 🌟 Credits
 
-**Created using Claude 3.7 Sonnet with Windsurf, utilizes Pygame, and developed with passion, and a love for simple to play games!**
+**Created using Pygame and developed with passion and a love for simple-to-play games!**
 
 🛠 Built with **Python3 & Pygame**  |  ✨ Inspired by the beauty of the sea!
 
