@@ -125,8 +125,6 @@ If you have any questions, or feedback, or want to collaborate, feel free to rea
 
 ## 🌟 Credits
 
-**Created using Pygame and developed with passion and a love for simple-to-play games!**
-
 🛠 Built with **Python3 & Pygame**  |  ✨ Inspired by the beauty of the sea!
 
 ---
